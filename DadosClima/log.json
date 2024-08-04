@@ -1,0 +1,13 @@
+{"temperatura": 23.0, "pressao": 29.0, "umidade": 29.0, "operacao": "incluir"}
+{"temperatura": 290.0, "pressao": 29.0, "umidade": 23.0, "operacao": "incluir"}
+{"temperatura": 290.0, "pressao": 29.0, "umidade": 23.0, "operacao": "incluir"}
+{"temperatura": 29.0, "pressao": 29.0, "umidade": 29.0, "operacao": "incluir"}
+{"temperatura": 29.0, "pressao": 29.0, "umidade": 29.0, "operacao": "incluir"}
+{"temperatura": 29.0, "pressao": 29.0, "umidade": 239.0, "operacao": "incluir"}
+{"temperatura": 29.0, "pressao": 29.0, "umidade": 239.0, "operacao": "excluir"}
+{"temperatura": 29.0, "pressao": 29.0, "umidade": 29.0, "operacao": "incluir"}
+{"temperatura": 29.0, "pressao": 29.0, "umidade": 29.0, "operacao": "incluir"}
+{"temperatura": 29.0, "pressao": 29.0, "umidade": 29.0, "operacao": "excluir"}
+{"temperatura": 2.0, "pressao": 2.0, "umidade": 2.0, "operacao": "incluir"}
+{"temperatura": 32.0, "pressao": 32.0, "umidade": 32.0, "operacao": "incluir"}
+{"temperatura": 32.0, "pressao": 32.0, "umidade": 32.0, "operacao": "excluir"}

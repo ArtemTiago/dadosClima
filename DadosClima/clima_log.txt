@@ -1,0 +1,9 @@
+2024-08-04 13:30:25 - INSERT - Temperatura: 20.0, Pressão: 2.0, Umidade: 1.0
+2024-08-04 13:30:29 - INSERT - Temperatura: 20.0, Pressão: 2.0, Umidade: 1.0
+2024-08-04 13:30:32 - DELETE - Temperatura: 20.0, Pressão: 2.0, Umidade: 1.0
+2024-08-04 14:01:38 - INSERT - Temperatura: 29.0, Pressão: 29.0, Umidade: 12.0
+2024-08-04 14:01:52 - INSERT - Temperatura: 29.0, Pressão: 29.0, Umidade: 12.0
+2024-08-04 14:02:07 - INSERT - Temperatura: 29.0, Pressão: 29.0, Umidade: 12.0
+2024-08-04 14:03:22 - INSERT - Temperatura: 30.0, Pressão: 20.0, Umidade: 10.0
+2024-08-04 14:03:33 - INSERT - Temperatura: 31.0, Pressão: 30.0, Umidade: 20.0
+2024-08-04 14:03:39 - DELETE - Temperatura: 30.0, Pressão: 20.0, Umidade: 10.0
